@@ -1,0 +1,202 @@
+[
+  {
+    "number": 1,
+    "title": "Karlin Power Plant",
+    "spot": "Tire pile beside the old caravan",
+    "x": 11579,
+    "z": 6940,
+    "image": "images/photo01.png"
+  },
+  {
+    "number": 2,
+    "title": "Sitnik Railway",
+    "spot": "Treeline on the hill by the railway split",
+    "x": 10935,
+    "z": 9490,
+    "image": "images/photo02.png"
+  },
+  {
+    "number": 3,
+    "title": "Wrzeszcz",
+    "spot": "Old ruins beyond the outhouse",
+    "x": 8891,
+    "z": 4464,
+    "image": "images/photo03.png"
+  },
+  {
+    "number": 4,
+    "title": "Lawenda Summer Camp",
+    "spot": "Near the garbage bins",
+    "x": 782,
+    "z": 8622,
+    "image": "images/photo04.png"
+  },
+  {
+    "number": 5,
+    "title": "Dolnik",
+    "spot": "Two dead trees beside a trailer on the main road",
+    "x": 11031,
+    "z": 1588,
+    "image": "images/photo05.png"
+  },
+  {
+    "number": 6,
+    "title": "Lukow Cabin",
+    "spot": "Between the wooden campfire benches",
+    "x": 4335,
+    "z": 12412,
+    "image": "images/photo06.png"
+  },
+  {
+    "number": 7,
+    "title": "Lukow Pond",
+    "spot": "Under a tree on the north side of the pond",
+    "x": 3673,
+    "z": 12560,
+    "image": "images/photo07.png"
+  },
+  {
+    "number": 8,
+    "title": "Branzow Ruins",
+    "spot": "Between a tree stump and large rocks",
+    "x": 1360,
+    "z": 11311,
+    "image": "images/photo08.png"
+  },
+  {
+    "number": 9,
+    "title": "Polana Lake",
+    "spot": "Tree beside a dead log along the dry creek bed",
+    "x": 4213,
+    "z": 2915,
+    "image": "images/photo09.png"
+  },
+  {
+    "number": 10,
+    "title": "Topolin Police Station",
+    "spot": "Tree surrounded by rubbish behind the station",
+    "x": 1471,
+    "z": 7361,
+    "image": "images/photo10.png"
+  },
+  {
+    "number": 11,
+    "title": "Southern Castle",
+    "spot": "Between two rocks east of the castle, past the wreck",
+    "x": 6980,
+    "z": 1144,
+    "image": "images/photo11.png"
+  },
+  {
+    "number": 12,
+    "title": "Sowa Castle",
+    "spot": "Large rock and small group of trees on the hill",
+    "x": 11503,
+    "z": 11906,
+    "image": "images/photo12.png"
+  },
+  {
+    "number": 13,
+    "title": "Northeast Lake Island",
+    "spot": "Beneath the treehouse on the island",
+    "x": 12351,
+    "z": 10886,
+    "image": "images/photo13.png"
+  },
+  {
+    "number": 14,
+    "title": "Sitnik Factory",
+    "spot": "Between two giant spools in the factory grounds",
+    "x": 11766,
+    "z": 10768,
+    "image": "images/photo14.png"
+  },
+  {
+    "number": 15,
+    "title": "Dolnik Stone Circle",
+    "spot": "In a cluster of bushes near the stone circle",
+    "x": 12126,
+    "z": 1729,
+    "image": "images/photo15.png"
+  },
+  {
+    "number": 16,
+    "title": "Southern Contaminated Zone",
+    "spot": "Between two trees near the deer grave",
+    "x": 7695,
+    "z": 2285,
+    "image": "images/photo16.png"
+  },
+  {
+    "number": 17,
+    "title": "Zalesie Hermit House",
+    "spot": "Behind the deer feeder stand in the woods",
+    "x": 675,
+    "z": 4397,
+    "image": "images/photo17.png"
+  },
+  {
+    "number": 18,
+    "title": "Dambog Military Outpost",
+    "spot": "Beneath the radar tower",
+    "x": 542,
+    "z": 1119,
+    "image": "images/photo18.png"
+  },
+  {
+    "number": 19,
+    "title": "Jantar Lake",
+    "spot": "Under the treehouse in the huge dead tree",
+    "x": 3376,
+    "z": 8913,
+    "image": "images/photo19.png"
+  },
+  {
+    "number": 20,
+    "title": "Topolin Fire Station",
+    "spot": "Bushes in the corner of the green house yard",
+    "x": 1628,
+    "z": 7388,
+    "image": "images/photo20.png"
+  },
+  {
+    "number": 21,
+    "title": "Wrzeszcz Shooting Range",
+    "spot": "Towards the back of the shooting range",
+    "x": 9948,
+    "z": 3954,
+    "image": "images/photo21.png"
+  },
+  {
+    "number": 22,
+    "title": "Nadbor Quarry",
+    "spot": "Inside the quarry near the water",
+    "x": 6996,
+    "z": 4583,
+    "image": "images/photo22.png"
+  },
+  {
+    "number": 23,
+    "title": "North Dambog Quarry",
+    "spot": "Dead tree next to a large boulder",
+    "x": 682,
+    "z": 2401,
+    "image": "images/photo23.png"
+  },
+  {
+    "number": 24,
+    "title": "Lukow Airfield",
+    "spot": "Under the radar tower",
+    "x": 4015,
+    "z": 10296,
+    "image": "images/photo24.png"
+  },
+  {
+    "number": 25,
+    "title": "Eastern Castle",
+    "spot": "Beside the abandoned well near the castle",
+    "x": 11880,
+    "z": 6579,
+    "image": "images/photo25.png"
+  }
+]
